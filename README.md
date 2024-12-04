@@ -9,4 +9,4 @@ Aquest repositori està dissenyat per practicar la manipulació avançada de tau
 Paula Arnas<br>
 Usuari a Discord: parnas1752<br>
 
-🔗 Enllaç al projecte: [Repositori GitHub](https://github.com/parnsant/IT-Academy---Sprint-3)
+🔗 Enllaç al projecte: [Repositori GitHub](https://github.com/parnsant/IT-Academy-Sprint-3)
