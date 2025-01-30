@@ -1,4 +1,4 @@
-# IT Academy Sprint 3
+# IT Academy - Sprint 3
 # Gestió de taules, índex i vistes
 
 
